@@ -46,6 +46,8 @@ semantice tags
 + article
 + sidebar
 + footer
++ nav
++ aside
 
 ### Morning session (Day-1)
 

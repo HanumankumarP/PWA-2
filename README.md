@@ -1,6 +1,5 @@
 # PWA-2
 ## Main goal 
-_______________
 We need to build an offline first application with client side storage. For that we need to cover the following topics.
 	+ indexedDB
 		- Storing information into `indexedDB`
@@ -19,7 +18,6 @@ We need to build an offline first application with client side storage. For that
 		- Referrence (`favicon-generator.org`).
 
 ## File Structure
-_________________
 
 For working on the PWA-2 concepts, we need to focus on the following file structure.
 	+ Root folder
@@ -37,7 +35,6 @@ For working on the PWA-2 concepts, we need to focus on the following file struct
 			- icons for manifest.JSON
 
 ## Implementation
-______________________
 
 Note : Focus on semantic tags and css rules from udacity.
 semantice tags
@@ -96,5 +93,5 @@ semantice tags
 
 ### Afternoon session (Day-3)
 1. implementation of `manifest.JSON` and pushing of the project into gitHub.
-2. Conducting exam and getting feedback from the students <br />
+2. Conducting exam and getting feedback from the students <br /> <br />
 																			                                                                 - _Hanuman_

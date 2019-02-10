@@ -96,5 +96,5 @@ semantice tags
 
 ### Afternoon session (Day-3)
 1. implementation of `manifest.JSON` and pushing of the project into gitHub.
-2. Conducting exam and getting feedback from the students
+2. Conducting exam and getting feedback from the students <br />
 																			- _Hanuman_

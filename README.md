@@ -54,12 +54,12 @@ semantice tags
 1. Discuss about PWA-1 concepts (git and GitHub, flex-boxes, XMLHttpRequest, JSON, LightHouse tool, Google developer console, JavaScript basic concepts.)
 
 2. Modifying `index.html`
-	- Created html structure and added `lang` attribute.
-	- Added meta tags (for responsive design and charecterset.)
-	- Added header section with the text of **Resume Builder**.
-	- Added external stylesheet (css/style.css) using `link` tag.
+	- Creating html structure along with `lang` attribute and `DOCTYPE`.
+	- Adding meta tags (for responsive design and charecterset.)
+	- Adding header section with the text of **Resume Builder**.
+	- Adding external stylesheet (css/style.css) using `link` tag.
 3. Modifying `style.css` (css/style.css)
-	- Implemented styles for header section
+	- Implementing styles for header section
 4. Creating form in `create.html`
 
 ### Afternoon session (Day-1)

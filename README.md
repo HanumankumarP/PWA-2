@@ -31,7 +31,7 @@ For working on the PWA-2 concepts, we need to focus on the following file struct
 		- main.js (for storing information into `indexedDB`)
 		- get.js (For retrieving information from `indexedDB`)
 	+ images
-		- User defuned images
+		- User defined images
 		- icons for manifest.JSON
 
 ## Implementation

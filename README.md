@@ -20,29 +20,29 @@ We need to build an offline first application with client side storage. For that
 ## File Structure
 
 For working on the PWA-2 concepts, we need to focus on the following file structure.
-	+ Root folder
-		- index.html ( root file ).
-		- create.html
-		- resume.html
-		- sw.js (service worker)
-		+ CSS
-			- style.css
-		+ JS
-			- main.js (for storing information into `indexedDB`)
-			- get.js (For retrieving information from `indexedDB`)
-		+ images
-			- User defuned images
-			- icons for manifest.JSON
++ Root folder
+	- index.html ( root file ).
+	- create.html
+	- resume.html
+	- sw.js (service worker)
+	+ CSS
+		- style.css
+	+ JS
+		- main.js (for storing information into `indexedDB`)
+		- get.js (For retrieving information from `indexedDB`)
+	+ images
+		- User defuned images
+		- icons for manifest.JSON
 
 ## Implementation
 
 Note : Focus on semantic tags and css rules from udacity.
 semantice tags
-	+ header
-	+ section
-	+ article
-	+ sidebar
-	+ footer
++ header
++ section
++ article
++ sidebar
++ footer
 
 ### Morning session (Day-1)
 

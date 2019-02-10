@@ -5,8 +5,11 @@ We need to build an offline first application with client side storage. For that
 	- Storing information into `indexedDB`
 	- Retrieving information from `indexedDB`
 	- Importent functions
-		1. `getAll()`
-		2. `get()`
+		1. `getAll()` : For getting complete information from indexedDB.
+		2. `get()` : For retrieving particular information based on `keyPath`.
+		3. `map()` : Alternative to For-loop.
+		4. `put()` : Updating information in indexedDB
+		5. `add()` : Adding information in indexedDB.
 + serviceWorker
 	- Registering of serviceWorker.
 	- Installing the serviceWorker.

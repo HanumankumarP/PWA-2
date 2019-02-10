@@ -1,21 +1,21 @@
 # PWA-2
 ## Main goal 
 We need to build an offline first application with client side storage. For that we need to cover the following topics.
-	+ indexedDB
-		- Storing information into `indexedDB`
-		- Retrieving information from `indexedDB`
-		- Importent functions
-			1. `getAll()`
-			2. `get()`
-	+ serviceWorker
-		- Registering of serviceWorker.
-		- Installing the serviceWorker.
-		- Offline cache storage using `fetch` API
-		- Activation of serviceWorker (optional)
-	+ manifest.JSON
-		- Creating icons.
-		- Modifying `index.html` (including `manifest.JSON` file along with icons)
-		- Referrence (`favicon-generator.org`).
++ indexedDB
+	- Storing information into `indexedDB`
+	- Retrieving information from `indexedDB`
+	- Importent functions
+		1. `getAll()`
+		2. `get()`
++ serviceWorker
+	- Registering of serviceWorker.
+	- Installing the serviceWorker.
+	- Offline cache storage using `fetch` API
+	- Activation of serviceWorker (optional)
++ manifest.JSON
+	- Creating icons.
+	- Modifying `index.html` (including `manifest.JSON` file along with icons)
+	- Referrence (`favicon-generator.org`).
 
 ## File Structure
 
